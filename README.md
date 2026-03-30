@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Focus
-- Cybersecurity fundamentals
+- Cybersecurity pentest
 - Python programming
 - Building technical experience through practice
 
